@@ -1,8 +1,8 @@
 from twilio.rest import Client 
 import os
 
-account_sid = 'AC2a292bdf20f43814a186b924ab52f8c1' 
-auth_token = 'ecec35588b4ca8344145627c8e85d631' 
+account_sid = '' 
+auth_token = '' 
 client = Client(account_sid, auth_token) 
 def func():
     f1=open("students.csv","r")

@@ -1,7 +1,7 @@
 import discord
 import os
 import t1
-token = "MTAxMDI0NTM0MjY5Mzk1NzY1Mw.GntHra.xzgtOwTjuTRMw58xSUq6plfN3rsJSoOX9E6Xcg"
+token = ""
 ls=["Students",]
 key="meow"
 client = discord.Client(intents=discord.Intents.default())
